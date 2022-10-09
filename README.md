@@ -1,4 +1,4 @@
-# TransFuse
+# 融合Transformer和CNN用于Covid-19医学影像诊断系统研究
 This repo holds the code of TransFuse: Fusing Transformers and CNNs for Medical Image Segmentation
 
 ## Requirements
